@@ -187,8 +187,8 @@ class registerState extends State<register> {
                   width: 20,
                 ),
 
-                //fb
-                Square_tile(onTap: () {}, imagePath: 'assets/google1.png'),
+                // fb
+                // Square_tile(onTap: () {}, imagePath: 'assets/google1.png'),
               ],
             ),
             SizedBox(
