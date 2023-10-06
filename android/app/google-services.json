@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "998018651905",
+    "project_id": "loginauthaquatrace",
+    "storage_bucket": "loginauthaquatrace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998018651905:android:1bbae17739618f35476d00",
+        "android_client_info": {
+          "package_name": "com.example.aqua_trace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHuoSrJAkne86NZYh3verO7D34xeCrK84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

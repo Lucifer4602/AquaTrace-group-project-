@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">finaltry</string>
+    <string name="facebook_app_id">3926338410984899</string>
+    <string name="fb_login_protocol_scheme">fb3926338410984899</string>
+    <string name="facebook_client_token">6b129941a4ade3e74423e905b5897034</string>
+</resources>
